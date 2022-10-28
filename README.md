@@ -1,1 +1,5 @@
-Hola, este es nuestro fichero
+Hola, este es nuestro fichero.
+
+USAGE:
+
+python3 hello.py <param (string)>
